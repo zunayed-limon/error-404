@@ -1,0 +1,14 @@
+1. The website you were trying to reach couldn't be found on the server.
+
+2. We're sorry, the page you're looking for could not be found.
+
+3. We couldn't find the page you were looking for. Please try again.
+
+4. The page you were looking for seems to have disappeared.
+
+5. Oops! This page can't be found.
+
+
+
+
+
